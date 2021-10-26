@@ -1,0 +1,41 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica06/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica06/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'practica06 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica06/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'practica06 1.0-SNAPSHOT API'
+com.mycompany.practica06
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica06/src/main/java/com/mycompany/practica06/Main.java'
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica06\src\main\java = 1635248434035
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica06\target\site\apidocs\allclasses-frame.html = 1635249543499
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica06\target\site\apidocs\allclasses-noframe.html = 1635249543500
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica06\target\site\apidocs\constant-values.html = 1635249543474
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica06\target\site\apidocs\deprecated-list.html = 1635249543497
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica06\target\site\apidocs\help-doc.html = 1635249543508
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica06\target\site\apidocs\index-all.html = 1635249543494
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica06\target\site\apidocs\index.html = 1635249543502
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica06\target\site\apidocs\overview-tree.html = 1635249543491
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica06\target\site\apidocs\package-list = 1635249543445
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica06\target\site\apidocs\script.js = 1635249543524
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica06\target\site\apidocs\stylesheet.css = 1635249543516
